@@ -59,6 +59,8 @@ The system ensures controlled access to releases based on user roles and permiss
 Screenshots of the system are attached, for each of the following:
 
 - Dashboard
+  ![Dashboard](images/dashboard1.png)
+  ![Dashboard](images/dashboard2.png)
 - Users management
 - Releases page
 - Upload interface
