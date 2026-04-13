@@ -58,12 +58,53 @@ The system ensures controlled access to releases based on user roles and permiss
 
 Screenshots of the system are attached, for each of the following:
 
+-Login Page
+  ![Login Page](images/login.png)
 - Dashboard
   ![Dashboard](images/dashboard1.png)
+  
   ![Dashboard](images/dashboard2.png)
+  
 - Users management
-- Releases page
-- Upload interface
+  ![Users management](images/usersPage.png)
+  
+  ![Users management](images/addUser.png)
+  
+  ![Users management](images/editUser.png)
+  
+-  System Type management
+  ![System Type management](images/systemTypePage.png)
+
+  ![System Type management](images/addSystemType.png)
+  
+  ![System Type management](images/editSystemType.png)
+  
+-  Category management
+   ![Category management](images/categoryPage.png)
+
+   ![Category management](images/addCategory.png)
+  
+   ![Category management](images/editCategory.png)
+
+-  Systems Page
+   ![Systems page](images/systemsPage.png)
+
+   ![Systems page](images/systemsPage.png)
+-  Releases page
+   ![Releases page](images/systemReleasesPage.png)
+   
+   ![Releases page](images/addSystemReleases.png)
+   
+- Generate Link
+  ![Generate Link](images/GenerateLink.png)
+
+  ![Generate Link](images/GenerateLink2.png)
+
+- Error Page: Link Used More than Once
+  ![Error Page: Link Used More than Once](images/ErrorPage-LinkUsedMorethanOnce.png)
+
+- Profile Page
+ ![Profile Page](images/profilePage.png)  
 
 ---
 
